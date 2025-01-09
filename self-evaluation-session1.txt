@@ -1,0 +1,12 @@
+(1) What is the difference between nn.embedding and nn.linear?
+(2) In what sense are attention weights "trainable"?
+(3) How many matrix multiplications are there in the computation of a single head?
+(4) Why do use scaled attention instead of non-scaled version? 
+(5) What is the difference between normalization layer and batch normalization?
+(6) What are the relationships between the dimensions of keys, queries, and values? Which is the largest (in dimension)?
+(7) What does "auto-regressive" mean?
+(8) Why is "sliding windows" not a great name, and "expanding windows" would be better? 
+(9) What are the benefits of the sliding / expanding windows?
+(10) What are the alternatives to cross entropy loss?
+(11) What do "shortcut connections" (also called "residual connections") do?
+(12) What is dropout?
